@@ -1,0 +1,10 @@
+{
+    "name": "claude-consultant",
+    "version": "1.0.0",
+    "description": "Quality control layer for Claude Cowork. Track mistakes, enforce verification protocols, and run weekly self-audits to make Claude measurably more reliable over time.",
+    "author": {
+          "name": "Sourav Ghosh",
+          "url": "https://x.com/souravghosh"
+    },
+    "keywords": ["quality-control", "reliability", "audit", "issue-tracking"]
+}
